@@ -1,6 +1,6 @@
 # Multi-Agent-Medical-Diagnostic-System
 
-<img width="900" alt="image" src="Assests/img">
+<img width="900" alt="image" src="(https://github.com/Darsh50/Multi-Agent-Medical-Diagnostic-System/blob/main/Assests/img.png)">
 
 A GPT-powered multi-agent framework for collaborative medical diagnosis and treatment suggestions
 
